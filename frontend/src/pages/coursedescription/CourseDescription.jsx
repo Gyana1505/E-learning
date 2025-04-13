@@ -31,7 +31,7 @@ const CourseDescription = ({user}) => {
       })
 
     const options={
-      "key": "rzp_test_VucgDMmJecax45", // Enter the Key ID generated from the Dashboard
+      "key": "Your razorpay key", // Enter the Key ID generated from the Dashboard
     "amount": order.id, // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
     "currency": "INR",
     "name": "E-Learning", //your business name
