@@ -1,0 +1,17 @@
+.courses{
+    padding: 50px 0;
+    text-align: center;
+    min-height: 60vh;
+}
+.courses h2{
+    font-size: 30px;
+    color: rgb(224, 224, 236);
+    margin-bottom: 25px;
+}
+.course_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 1rem;
+}

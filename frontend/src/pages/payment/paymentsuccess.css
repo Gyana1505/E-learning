@@ -1,0 +1,32 @@
+.paymentpage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+    /* background-color: gray; */
+}
+    .successpage{
+        /* background-color: rgba(128, 128, 128, 0.349); */
+        background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255, 255, 255, 0.295));
+
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 2px 4px rgba(142, 243, 226, 0.397);
+        text-align: center;
+        width: 300px;
+    }
+    h2{
+        font-size: 25px;
+        color: #fff;
+        margin-bottom: 15px;
+
+    }
+    p{
+        font-size: 15px;
+        color: #f5f5dc;
+        margin-bottom: 20px;
+        
+    }
+    a{
+        text-decoration: none;
+    }

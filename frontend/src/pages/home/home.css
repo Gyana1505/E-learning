@@ -1,0 +1,30 @@
+.home{
+    /* background-color:gray; */
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+}
+.home-content{
+    min-width: 800px;
+    margin: 0 auto;
+}
+.home-content h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.home-content p{
+    font-size: 18px;
+    color: #c1e2d2;
+    margin-bottom: 40px;
+}
+button{
+    padding: 12px 24px;
+}
+@media (max-width:768px) {
+    h1{
+        font-size: 28px;
+    }
+    p{
+        font-size: 16px;
+    }
+}
